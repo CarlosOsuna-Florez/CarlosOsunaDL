@@ -13,10 +13,11 @@ Los datos pueden descargarse [aquí]((https://github.com/Juandi11/Series_de_tiem
 ## Justificación
 Para los operadores de red es importante simular la mayor cantidad de escenarios posibles, los cuales debido a la variedad de perturbaciones que existen pueden llevar muchas simulaciones y aumentar a medida que aumentan las barras en el sistema (nodos de conexión).
 
-## Video explicativo
-[Ver video en YouTube]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=kduSaWT7oGQ))
 
 
 Para poder dedterminar la estabilidad del sistema se usa el indice liapunov, sin embargo este requiere una ventana de tiempo de minimo 10s para poder hacer la clasificación (estable o inestable).
 
 Para poder reducir el costo computacional de estas simulaciones bajar ventana de tiempo de simulación sería un avance, por tanto mediante la metodología implementada en los escrips de este repositorio se puede realizar esta clasificación (estable o inestable) usando una ventana de tiempo menor
+
+## Video explicativo
+[Ver video en YouTube](https://www.youtube.com/watch?v=kduSaWT7oGQ)
