@@ -7,7 +7,7 @@ Es la capacidad de un sistema eléctrico para mantener voltajes aceptables en to
 
 ## Sobre los datos
 Los datos provienen de una simulación en el software DigSilent del ieee new england 39 bars test, en él se simularon 10000 perturbaciones. En el momento de la perturbación se miden las tensiones en las barras durante un tiempo de 10 segundos a una frecuencia de muestreo de 833 ms obteniendo 39 series con 1203 observaciones. Adicionamente se tiene un archivo con las etiquetas para cada serie indicando si es estable (0) o inestable (1). Para obtener esta etiqueta se usó el indice Liapunov.
-Los datos pueden descargarse [aquí]((https://github.com/Juandi11/Series_de_tiempo))
+Los datos pueden descargarse [aquí](https://github.com/Juandi11/Series_de_tiempo)
 
 
 ## Justificación
